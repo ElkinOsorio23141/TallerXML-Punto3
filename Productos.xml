@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
+<!DOCTYPE Productos SYSTEM "ListaProductos.dtd">
+<Productos>
+    <producto>
+        <raton>
+            <codigo>P1020</codigo>
+        </raton>
+    </producto>
+    <producto>
+        <teclado>
+            <codigo>P1021</codigo>
+            <descripcion>TECLADO MECANICO INALÁMBRICO</descripcion>
+        </teclado>
+    </producto>
+</Productos>
